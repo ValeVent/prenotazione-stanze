@@ -3,12 +3,12 @@
 Questo progetto è una semplice applicazione Angular per la gestione delle prenotazioni di stanze. Permette agli utenti di visualizzare le stanze disponibili, prenotarle e rimuovere le prenotazioni, calcolando dinamicamente l'incasso totale.
 
 
-Descrizione Approfondita del Progetto
+## Descrizione Approfondita del Progetto
 
 L'applicazione presenta due liste principali: una per le stanze disponibili e una per le stanze prenotate. Gli utenti possono cliccare su una stanza disponibile per aggiungerla all'elenco delle prenotazioni. Allo stesso modo, le stanze prenotate possono essere rimosse, tornando disponibili. Il sistema calcola e visualizza in tempo reale l'incasso complessivo generato dalle prenotazioni attive. I dati delle stanze sono predefiniti all'interno del codice dell'applicazione e non persistono dopo il ricaricamento della pagina.
 
 
-Tecnologie Utilizzate
+## Tecnologie Utilizzate
 
 - Angular: Framework per la costruzione dell'applicazione web.
 
@@ -21,7 +21,7 @@ Tecnologie Utilizzate
 - Bootstrap 5: Framework CSS utilizzato per il layout e lo stile dei componenti (liste, pulsanti, griglie).
 
 
-Funzionalità Principali
+## Funzionalità Principali
 
 - Visualizzazione Stanze Disponibili: Elenco delle stanze con tipologia, descrizione e prezzo.
 
@@ -34,12 +34,12 @@ Funzionalità Principali
 - Messaggi Condizionali: Visualizzazione di messaggi specifici quando non ci sono stanze disponibili o prenotazioni attive.
 
 
-Come Avviare il Progetto
+## Come Avviare il Progetto
 
 Segui questi passaggi per configurare ed eseguire il progetto localmente:
 
 
-Prerequisiti
+### Prerequisiti
 
 - Node.js (versione LTS raccomandata)
 
@@ -50,7 +50,7 @@ Prerequisiti
 npm install -g @angular/cli
 
 
-Installazione
+### Installazione
 
 1. Clona il repository (o scarica la cartella del progetto):
 
@@ -67,7 +67,7 @@ cd progetto-prenotazione-stanze
 npm install
 
 
-Avvio dell'Applicazione
+### Avvio dell'Applicazione
 
 1. Avvia il server di sviluppo Angular:
 
@@ -75,12 +75,12 @@ ng serve
 
 2. Apri il tuo browser web e naviga su http://localhost:4200/. L'applicazione si ricaricherà automaticamente ad ogni modifica dei file sorgente.
 
-Stato del Progetto
+## Stato del Progetto
 
 Questo progetto è un'applicazione Angular semplice ma funzionale, ideale per dimostrare le basi dello sviluppo con Angular, la gestione dello stato dei componenti e l'interazione utente. I dati delle stanze sono hardcoded e non persistono al ricaricamento della pagina.
 
 
-Contatti
+## Contatti
 
 - GitHub: https://github.com/ValeVent
 
