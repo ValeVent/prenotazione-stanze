@@ -1,4 +1,4 @@
-Progetto Prenotazione Stanze
+# Progetto Prenotazione Stanze
 
 Questo progetto è una semplice applicazione Angular per la gestione delle prenotazioni di stanze. Permette agli utenti di visualizzare le stanze disponibili, prenotarle e rimuovere le prenotazioni, calcolando dinamicamente l'incasso totale.
 
