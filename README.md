@@ -10,28 +10,28 @@ L'applicazione presenta due liste principali: una per le stanze disponibili e un
 
 ## Tecnologie Utilizzate
 
-- Angular: Framework per la costruzione dell'applicazione web.
+- **Angular**: Framework per la costruzione dell'applicazione web.
 
-- TypeScript: Linguaggio di programmazione per lo sviluppo dell'applicazione.
+- **TypeScript**: Linguaggio di programmazione per lo sviluppo dell'applicazione.
 
-- HTML: Struttura dei componenti e del template.
+- **HTML**: Struttura dei componenti e del template.
 
-- SCSS (Sass): Per lo styling dei componenti (come indicato da styleUrl in app.component.ts).
+- **SCSS (Sass)**: Per lo styling dei componenti (come indicato da styleUrl in app.component.ts).
 
-- Bootstrap 5: Framework CSS utilizzato per il layout e lo stile dei componenti (liste, pulsanti, griglie).
+- **Bootstrap 5**: Framework CSS utilizzato per il layout e lo stile dei componenti (liste, pulsanti, griglie).
 
 
 ## Funzionalità Principali
 
-- Visualizzazione Stanze Disponibili: Elenco delle stanze con tipologia, descrizione e prezzo.
+- **Visualizzazione Stanze Disponibili**: Elenco delle stanze con tipologia, descrizione e prezzo.
 
-- Prenotazione Stanze: Aggiunta di una stanza dalla lista delle disponibili a quella delle prenotate con un semplice click.
+- **Prenotazione Stanze**: Aggiunta di una stanza dalla lista delle disponibili a quella delle prenotate con un semplice click.
 
-- Rimozione Prenotazioni: Possibilità di annullare una prenotazione, rendendo la stanza nuovamente disponibile.
+- **Rimozione Prenotazioni**: Possibilità di annullare una prenotazione, rendendo la stanza nuovamente disponibile.
 
-- Calcolo Incasso Totale: Aggiornamento dinamico dell'incasso totale basato sulle stanze attualmente prenotate.
+- **Calcolo Incasso Totale**: Aggiornamento dinamico dell'incasso totale basato sulle stanze attualmente prenotate.
 
-- Messaggi Condizionali: Visualizzazione di messaggi specifici quando non ci sono stanze disponibili o prenotazioni attive.
+- **Messaggi Condizionali**: Visualizzazione di messaggi specifici quando non ci sono stanze disponibili o prenotazioni attive.
 
 
 ## Come Avviare il Progetto
@@ -82,11 +82,11 @@ Questo progetto è un'applicazione Angular semplice ma funzionale, ideale per di
 
 ## Contatti
 
-- GitHub: https://github.com/ValeVent
+- **GitHub**: https://github.com/ValeVent
 
-- LinkedIn: https://www.linkedin.com/in/valentina-venturo
+- **LinkedIn**: https://www.linkedin.com/in/valentina-venturo
 
-- Sito Web: http://www.valentinaventuro.it
+- **Sito Web**: http://www.valentinaventuro.it
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
 
