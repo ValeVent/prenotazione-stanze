@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "primo-stop-and-code-prenotazione-stanze": {
+    "prenotazione-stanze": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -24,7 +24,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/primo-stop-and-code-prenotazione-stanze",
+            "outputPath": "dist/prenotazione-stanze",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -72,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "primo-stop-and-code-prenotazione-stanze:build:production"
+              "buildTarget": "prenotazione-stanze:build:production"
             },
             "development": {
-              "buildTarget": "primo-stop-and-code-prenotazione-stanze:build:development"
+              "buildTarget": "prenotazione-stanze:build:development"
             }
           },
           "defaultConfiguration": "development"

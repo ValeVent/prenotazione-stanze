@@ -7,7 +7,7 @@ import { Stanza } from './types/stanze.type';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'primo-stop-and-code-prenotazione-stanze';
+  title = 'prenotazione-stanze';
 
   stanze: Stanza[] = [
     { 
